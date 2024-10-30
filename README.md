@@ -1,0 +1,2 @@
+# wstatic
+.rand
